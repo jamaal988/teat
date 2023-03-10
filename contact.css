@@ -1,56 +1,39 @@
+.container {
+	max-width: 600px;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 10px;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+a {
+	color: #0077CC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
-    margin: 0;
-  }
-  
-  header {
-    background-color: #007bff;
-    color: #fff;
-    padding: 20px;
-  }
-  
-  h1 {
-    margin: 0;
-  }
-  
-  main {
-    margin: 20px;
-  }
-  
-  form {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-  }
-  
-  input,
-  textarea {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-  }
-  
-  input[type="submit"] {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  input[type="submit"]:hover {
-    background-color: #0062cc;
-  }
-  
+  background: url("https://media.discordapp.net/attachments/1083305590127853641/1083693254060552232/f2fbf31c-b589-4c34-95ab-e9e9ec197408.jpg?width=468&height=468") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

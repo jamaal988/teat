@@ -18,12 +18,12 @@ body {
   
   nav li {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 0px;
   }
   
   nav a {
     text-decoration: none;
-    color: #0431fa;
+    color: #7006fa;
   }
   
   main {
@@ -62,7 +62,7 @@ body {
   
   button {
     background-color: #0ab0e7;
-    color: rgb(235, 221, 221);
+    color: rgb(83, 34, 34);
     border: none;
     padding: 10px;
     cursor: pointer;
@@ -90,7 +90,12 @@ strong{
     text-align: center;
     
 }
-strong{
-  footer p {
-    margin: 0;
+
+
+body {
+  background: url("https://media.discordapp.net/attachments/1083305590127853641/1083693254060552232/f2fbf31c-b589-4c34-95ab-e9e9ec197408.jpg?width=468&height=468") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
