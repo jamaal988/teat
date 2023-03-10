@@ -1,0 +1,19 @@
+html{
+    background-color: wheat;
+}
+body p{
+    font-size: 110%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+div{
+    position: CENTER;
+    background-color: aqua;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-style: oblique;
+    
+}
+h1{
+    font-size: 100%;
+}
